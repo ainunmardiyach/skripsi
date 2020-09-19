@@ -1,0 +1,1 @@
+[{"name":"org.tensorflow:tensorflow-android:1.13.1","index":0,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX_ARCHIVE"],"format":"JAR","present":true},{"name":"f6de0debbf677007b4f13bbb9d17b49f90132833","index":1,"scopes":["PROJECT"],"types":["DEX_ARCHIVE"],"format":"DIRECTORY","present":true}]
